@@ -8,7 +8,7 @@ Sayfa yüklendiğinde karşımıza resminde bulunan ekran çıkmaktadır. Ekrand
 ## Aramanın Yapılması
 ![gelişme](https://github.com/user-attachments/assets/e65a42e7-6fe3-4d7d-b68c-3bc0a43f147b)
 1- Aranacak kullanıcının adını yazıp "Ara" butonuna tıkladığımızda aranan kullanıcının bulunması ile resimde bulunan (2) yeni alan eklenmektedir. </br>
-2- Burada aranan kişinin kişisel bilgileri gösterilmektedir. </br>
+2- Burada aranan kişinin kişisel API servisinden çekilerek aranan kişinin bilgileri gösterilmektedir. </br>
 3- Son aranan kişisel LocalStorage yardımı ile ekranda gösterilmektedir. </br>
 4- Bulunan kişisin yayında olan gönderilerini görüntülemek için tıklamamız gereken link </br>
 
