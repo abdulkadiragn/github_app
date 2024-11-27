@@ -1,0 +1,47 @@
+#profil-Content {
+  background-color: #fff;
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
+#profile-Div {
+  border: 1px solid lightgrey;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#profil-Img {
+  border-radius: 50%;
+}
+
+.info {
+  margin: 10px;
+}
+
+#repos-div {
+  background-color: #fff;
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
+#serach-user {
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
+#search-main {
+  display: flex;
+  flex-direction: row;
+}
+
+#today-sentence {
+  margin-top: 55px;
+  background-color: #fff;
+  border: 1px solid lightgrey;
+}

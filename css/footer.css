@@ -1,0 +1,27 @@
+#footer{
+    background-color: #fff;
+    border: 1px solid lightgrey;
+
+}
+#footer-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#instagram-logo{
+    margin-right: 5px;
+    font-size: 35px;
+    color: red;
+}
+
+#x-logo{
+    margin-right: 5px;
+    font-size: 35px;
+    color: black;
+}
+#linkedin-logo{
+    font-size: 35px;
+    color: rgb(10, 102, 194);
+}
